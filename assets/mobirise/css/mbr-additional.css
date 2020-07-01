@@ -132,7 +132,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #fcac06 !important;
+  background-color: #f92f0e !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -148,8 +148,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #fcac06 !important;
-  border-color: #fcac06 !important;
+  background-color: #f92f0e !important;
+  border-color: #f92f0e !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -157,14 +157,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #b37a02 !important;
-  border-color: #b37a02 !important;
+  background-color: #b61d05 !important;
+  border-color: #b61d05 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #b37a02 !important;
-  border-color: #b37a02 !important;
+  background-color: #b61d05 !important;
+  border-color: #b61d05 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -312,22 +312,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #9a6902;
-  color: #9a6902;
+  border-color: #9d1904;
+  color: #9d1904;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #fcac06;
-  border-color: #fcac06;
+  background-color: #f92f0e;
+  border-color: #f92f0e;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #fcac06 !important;
-  border-color: #fcac06 !important;
+  background-color: #f92f0e !important;
+  border-color: #f92f0e !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -464,7 +464,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #fcac06 !important;
+  color: #f92f0e !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -489,7 +489,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #9a6902 !important;
+  color: #9d1904 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -547,8 +547,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #fcac06;
-  border-color: #fcac06;
+  background-color: #f92f0e;
+  border-color: #f92f0e;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -565,11 +565,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #fcac06;
+  color: #f92f0e;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #feefd0;
+  color: #fedbd5;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -690,7 +690,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #fcac06;
+  border-color: #f92f0e;
   border-width: 3px;
 }
 ul,
@@ -779,7 +779,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #fcac06;
+  border-color: #f92f0e;
   color: #232323;
   cursor: pointer;
 }
@@ -790,7 +790,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #fcac06;
+  background: #f92f0e;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -798,11 +798,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #fcac06;
+  background: #f92f0e;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #fcac06;
+  color: #f92f0e;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1384,7 +1384,7 @@ body {
 }
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
-  background-color: #fcac06;
+  background-color: #f92f0e;
   color: #ffffff;
 }
 .jq-selectbox .jq-selectbox__trigger-arrow,
@@ -1397,14 +1397,14 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:hover:after,
 .jq-number__spin.plus:hover:after {
-  border-top-color: #fcac06;
-  border-bottom-color: #fcac06;
+  border-top-color: #f92f0e;
+  border-bottom-color: #f92f0e;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
-  color: #000000 !important;
-  background-color: #fcac06 !important;
+  color: #ffffff !important;
+  background-color: #f92f0e !important;
   box-shadow: none!important;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
@@ -1414,7 +1414,9 @@ body {
   box-shadow: none !important;
 }
 .cid-s2ZgktHRx5 {
-  background-image: url("../../../assets/images/background4.jpg");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/grafik-omset-menurun-1833x1222.jpg");
 }
 .cid-s2ZgktHRx5 .mbr-text,
 .cid-s2ZgktHRx5 .mbr-section-btn {
@@ -1536,7 +1538,7 @@ body {
 }
 .cid-s37HWyYLZS {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s37HWyYLZS .counter-container {
@@ -1567,13 +1569,67 @@ body {
   border-radius: 50%;
   content: '✓';
 }
-.cid-s37KzdnjXT {
+.cid-s3ro6uAloo {
   padding-top: 15px;
   padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s3ro6uAloo .line {
+  background-color: #f92f0e;
+  color: #f92f0e;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s3ro6uAloo .section-text {
+  padding: 2rem 0;
+}
+.cid-s3ro6uAloo .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s3ro6uAloo .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-s3roZpVus8 {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
+.cid-s3roZpVus8 .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-s37KzdnjXT {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
 .cid-s37KzdnjXT .mbr-section-subtitle {
+  color: #f92f0e;
+}
+.cid-s3rpp01Aye {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
+}
+.cid-s3rpp01Aye .line {
+  background-color: #fcac06;
   color: #fcac06;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s3rpp01Aye .section-text {
+  padding: 2rem 0;
+}
+.cid-s3rpp01Aye .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s3rpp01Aye .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-s37OxhalGO {
   background: #232323;
